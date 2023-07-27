@@ -1,0 +1,11 @@
+declare
+a number;
+b number;
+c number;
+begin 
+
+select ta,da into a,b from emp1 where pid=2;
+ c:=a+b;
+dbms_output.put_line(c);
+
+end;
