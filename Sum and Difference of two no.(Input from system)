@@ -1,0 +1,27 @@
+--Sum of two no. (Input from system)
+/*declare
+a number;
+b number;
+c number;
+begin
+a:=10;
+b:=20;
+c:=a+b;
+
+dbms_output.put_line('The sum is: '||c);
+
+end;*/
+
+--Difference of two no. (Input from system)
+/*declare
+a number;
+b number;
+c number;
+begin
+a:=10;
+b:=20;
+c:=a-b;
+
+dbms_output.put_line('The differnce is: '||c);
+
+end;*/
