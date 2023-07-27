@@ -1,0 +1,77 @@
+--Sum of two no. (Input from USER)
+/*declare 
+a number;
+b number;
+c number;
+begin
+a:=:a;
+b:=:b;
+c:=a+b;
+
+dbms_output.put_line('The sum is: '||c);
+
+end;*/
+
+--Difference of two no. (Input from USER)
+/*declare 
+a number;
+b number;
+c number;
+begin
+a:=:a;
+b:=:b;
+c:=a-b;
+
+dbms_output.put_line('The Difference is: '||c);
+
+end;*/
+
+
+/*declare 
+a number;
+b number;
+c number;
+begin
+a:=:a;
+b:=:b;
+c:=a*b;
+
+dbms_output.put_line('The sum is: '||c);
+
+end;*/
+
+--Dividesion of two no. (Input from USER)
+/*declare 
+a number;
+b number;
+c number;
+begin
+a:=:a;
+b:=:b;
+c:=a/b;
+
+dbms_output.put_line('The sum is: '||c);
+
+end;*/
+
+--Modulas of two no. (Input from USER)
+/*declare 
+a number;
+b number;
+c number;
+begin
+a:=:a;
+b:=:b;
+c:=a**b;  -- ** power operator
+
+dbms_output.put_line('The sum is: '||c);
+
+end;*/
+
+
+
+
+
+
+
+
