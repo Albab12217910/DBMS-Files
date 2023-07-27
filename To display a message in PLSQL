@@ -1,0 +1,6 @@
+--To display message in pl/sql
+declare
+
+begin 
+ dbms_output.put_line('welcome to PL/SQL!');
+end;
